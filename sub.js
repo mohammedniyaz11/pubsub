@@ -2,8 +2,8 @@ const {PubSub} = require('@google-cloud/pubsub');
 
 async function quickstart(
   projectId = 'pubsub-learn-366609', // Your Google Cloud Platform project ID
-  topicNameOrId = 'projects/pubsub-learn-366609/topics/myfirstprojectiiiii', // Name for the new topic to create
-  subscriptionName = 'projects/pubsub-learn-366609/subscriptions/MyfirstSubscriptioniii' // Name for the new subscription to create
+  topicNameOrId = 'projects/pubsub-learn-366609/topics/myfirstprojectiiiiiiiii', // Name for the new topic to create
+  subscriptionName = 'projects/pubsub-learn-366609/subscriptions/MyfirstSubscriptioniiiiii' // Name for the new subscription to create
 ) {
   // Instantiates a client
   console.log(projectId)
