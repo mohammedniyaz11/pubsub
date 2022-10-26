@@ -35,4 +35,4 @@ async function quickstart(
   // Send a message to the topic
   topic.publish(Buffer.from('Test message!'));
 }
-quickstart('shazab-payground','projects/shazab-payground/topics/testingTopic','projects/shazab-payground/subscriptions/subscribtion')
+quickstart()
